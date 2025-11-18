@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Scott/Documents/GitHub/420-SHOOTER/FPSGameStarterKit2/Content/420/420_Level.umap",
+				"C:/Users/Scott/Documents/GitHub/420-SHOOTER/FPSGameStarterKit2/Content/FPS_Game/Blueprints/BP_CharacterBase.uasset",
 				"C:/Users/anaso/Documents/GitHub/420-SHOOTER/FPSGameStarterKit2/Content/420/420-Level.umap",
 				"C:/Users/anaso/Documents/GitHub/420-SHOOTER/FPSGameStarterKit2/Content/420/420_Level.umap",
 				"C:/Users/anaso/Documents/GitHub/420-SHOOTER/FPSGameStarterKit2/Content/420/Example_Level.umap",
